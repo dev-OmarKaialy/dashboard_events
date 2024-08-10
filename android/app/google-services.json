@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "931238830014",
+    "project_id": "chec-events-584ad",
+    "storage_bucket": "chec-events-584ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931238830014:android:846dafc067e9b67d2fe3ef",
+        "android_client_info": {
+          "package_name": "com.example.chic_events"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwq8Nvf0afcgsrykOfqjJIv7_vTwNbZ0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931238830014:android:ff4ecd2e930a12852fe3ef",
+        "android_client_info": {
+          "package_name": "com.example.event_dashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwq8Nvf0afcgsrykOfqjJIv7_vTwNbZ0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931238830014:android:a6960f9e8e77772d2fe3ef",
+        "android_client_info": {
+          "package_name": "com.example.events_dashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwq8Nvf0afcgsrykOfqjJIv7_vTwNbZ0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
